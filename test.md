@@ -1,3 +1,10 @@
+---
+title: Functions for Beginners
+date: 'August 4, 2021'
+description: Learn how to create and use functions
+---
+
+
 yesssssssss
 An h1 headerParagraphs are separated by a blank line.
 | Month    | Savings |
