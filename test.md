@@ -1,5 +1,10 @@
 yesssssssss
 An h1 headerParagraphs are separated by a blank line.
+| Month    | Savings |
+| -------- | ------- |
+| January  | $250    |
+| February | $80     |
+| March    | $420    |
 
 2nd paragraph. Italic, bold, and monospace. Itemized lists look like:
 
