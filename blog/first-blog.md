@@ -14,6 +14,9 @@ An h1 headerParagraphs are separated by a blank line.
 | February | $80     |
 | March    | $420    |
 
+![alt text](https://imgur.com/U8FWdBu)
+
+
 2nd paragraph. Italic, bold, and monospace. Itemized lists look like:
 
     this one
